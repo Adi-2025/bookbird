@@ -27,8 +27,3 @@ Created as a group project in college. This app is useful for small college envi
 4. Google documentations and example applications
 5. Stack overflow
 
-## Contributors
-- Aditya Raj
-- Sachin Kumar Jha
-- Rahul Kumar
-
