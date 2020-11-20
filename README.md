@@ -1,4 +1,4 @@
-# Bookapp
+# Book-Bird
 Created as a group project in college. This app is useful for small college environment where students can share books, utilities and other tools among them and save money and reuse resources. 
 
 ## Cool features:
