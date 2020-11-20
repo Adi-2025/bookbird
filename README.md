@@ -17,9 +17,8 @@ Created as a group project in college. This app is useful for small college envi
 9. Nice profile view with profile picture
 
 ## Other features to add:
-1. Applying machine learning for recommendations
-2. Adding notifications
-3. Adding background database activity for transactions and more
+1. Adding notifications
+2. Adding background database activity for transactions and more
 
 ## Resources used
 1. Android studio
@@ -29,6 +28,7 @@ Created as a group project in college. This app is useful for small college envi
 5. Stack overflow
 
 ## Contributors
+- Aditya Raj
 - Sachin Kumar Jha
 - Rahul Kumar
-- Aditya Raj
+
