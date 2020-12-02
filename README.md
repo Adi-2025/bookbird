@@ -29,7 +29,8 @@ Created as a group project in college. This app is useful for small college envi
 
 
 ## Contributor
-   Aditya Raj
-   Sachin kumar jha
-   Rahul Kumar
+1. Aditya Raj
+2. Sachin kumar jha
+3. Rahul Kumar
+ 
 
